@@ -8,10 +8,6 @@ Cliente HTTP para WhatsApp API. Envía mensajes de texto y documentos PDF, y ges
 composer require esolutions/ws
 ```
 
-```bash
-composer require esolutions/ws
-```
-
 ## Namespace
 
 ```
