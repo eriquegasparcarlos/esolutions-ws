@@ -4,13 +4,8 @@ Cliente HTTP para WhatsApp API. Envía mensajes de texto y documentos PDF, y ges
 
 ## Instalación
 
-```json
-"repositories": [
-    { "type": "vcs", "url": "https://github.com/eriquegasparcarlos/esolutions-ws" }
-],
-"require": {
-    "esolutions/ws": "^1.0"
-}
+```bash
+composer require esolutions/ws
 ```
 
 ```bash
