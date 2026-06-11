@@ -1,6 +1,5 @@
 {
     "name": "esolutions/ws",
-    "version": "1.0.0",
     "description": "HTTP client for WhatsApp API",
     "type": "library",
     "license": "proprietary",
